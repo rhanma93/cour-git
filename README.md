@@ -1,2 +1,3 @@
-Nouvelle modification après staging
-Nouvelle modification après staging
+Nouvelle modification aprï¿½s staging
+Nouvelle modification aprï¿½s staging
+Fin du TP Git - Exercice 5
